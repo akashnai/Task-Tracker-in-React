@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 also for this project you have to use 
-### `npm rum server`
+### `npm run server`
 for getting the inserted data from db.json
 
 ### `npm test`
